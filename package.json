@@ -1,6 +1,6 @@
 {
   "name": "tapojs",
-  "version": "1.0.2",
+  "version": "1.1.1",
   "description": "For interfacing with Tapo smart products",
   "homepage": "https://github.com/freddierick/TapoJS",
   "main": "src/index.js",

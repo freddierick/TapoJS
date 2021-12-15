@@ -1,5 +1,5 @@
 # TapoJS
- A NodeJS librey for interfacing with Tapo smart products. Only on/off is supported as of now.
+ A NodeJS library for interfacing with Tapo smart products. Only on/off is supported as of now.
  
  ## Installation
  
