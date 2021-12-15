@@ -1,8 +1,13 @@
 {
   "name": "tapojs",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "For interfacing with Tapo smart products",
+  "homepage": "https://github.com/freddierick/TapoJS",
   "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/freddierick/TapoJS.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node src"
@@ -12,8 +17,6 @@
   "license": "ISC",
   "dependencies": {
     "node-fetch": "^2.6.6",
-    "node-forge": "^0.10.0",
-    "node-rsa": "^1.1.1",
     "pkcs7": "^1.0.4",
     "uuid": "^8.3.2"
   }
