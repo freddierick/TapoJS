@@ -1,0 +1,20 @@
+{
+  "name": "tapojs",
+  "version": "1.0.0",
+  "description": "For interfacing with Tapo smart products",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src"
+  },
+  "keywords": [],
+  "author": "Freddie Wren",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.6",
+    "node-forge": "^0.10.0",
+    "node-rsa": "^1.1.1",
+    "pkcs7": "^1.0.4",
+    "uuid": "^8.3.2"
+  }
+}
